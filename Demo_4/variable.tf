@@ -1,3 +1,3 @@
-variable "my_loop" {
-  type = list(map(any))
+variable "alert_loop" {
+    type = map(any)  
 }
