@@ -1,3 +1,4 @@
+// Alerts With For Count Loop
 resource "newrelic_alert_policy" "my_policy" {
   name = "my_policy_with_count _loop"
 }
