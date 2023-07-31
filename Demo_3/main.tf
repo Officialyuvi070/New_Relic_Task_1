@@ -1,3 +1,4 @@
+// Alerts With For_Each
 resource "newrelic_alert_policy" "my_policy" {
   name = "my_policy"
 }
